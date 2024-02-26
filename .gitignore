@@ -1,2 +1,5 @@
 # Virtual environment
 .venv/
+
+# macOS Folder Attributes
+.DS_Store
